@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Field Notes concept magazine cover</title>
+  <desc id="desc">A deep forest-green magazine cover with cream lettering and an arch-shaped illustration of rolling hills.</desc>
+  <rect width="900" height="600" fill="#173a2e"/>
+  <text x="54" y="58" fill="#dfe6d7" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">CULTURE, CLOSELY OBSERVED · VOL. 01</text>
+  <text x="54" y="139" fill="#fffdf8" font-family="Georgia,serif" font-size="87">Field Notes</text>
+  <path d="M206 600V359a244 244 0 0 1 488 0v241z" fill="#dfe6d7"/>
+  <circle cx="613" cy="374" r="28" fill="#fffdf8"/>
+  <path d="M206 495c90-105 155-125 235-84 75 38 114 44 179-4 31-23 51-32 74-35v228H206z" fill="#a8b99a"/>
+  <path d="M206 545c91-52 151-52 224-8 71 42 122 39 186 5 35-18 58-26 78-29v87H206z" fill="#214638"/>
+  <text x="54" y="555" fill="#dfe6d7" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">FICTIONAL CONCEPT / EDITORIAL &amp; WEB</text>
+  <text x="820" y="555" fill="#dfe6d7" font-family="Arial,sans-serif" font-size="20">01</text>
+</svg>

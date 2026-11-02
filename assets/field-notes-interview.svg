@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Field Notes feature story concept</title>
+  <desc id="desc">A magazine article mockup titled The art of paying attention, with a simple portrait illustration and a short quote.</desc>
+  <rect width="1200" height="800" fill="#dfe6d7"/>
+  <rect x="34" y="28" width="1132" height="744" fill="#fffdf8"/>
+  <text x="77" y="82" fill="#214638" font-family="Georgia,serif" font-size="33">Field Notes</text>
+  <text x="811" y="76" fill="#65665e" font-family="Arial,sans-serif" font-size="15">Stories　 People　 Places　 About</text>
+  <path d="M78 105h1044" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="155" fill="#214638" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PEOPLE / IN CONVERSATION</text>
+  <text x="78" y="221" fill="#252720" font-family="Georgia,serif" font-size="52">The art of</text>
+  <text x="78" y="277" fill="#252720" font-family="Georgia,serif" font-size="52">paying attention</text>
+  <text x="78" y="314" fill="#65665e" font-family="Arial,sans-serif" font-size="18">A conversation with a printmaker on finding possibility in the everyday.</text>
+  <text x="78" y="355" fill="#65665e" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">WORDS BY THE EDITORS / 6 MIN READ</text>
+  <rect x="78" y="389" width="372" height="270" fill="#ebe6d9"/>
+  <circle cx="264" cy="480" r="65" fill="#b96c4b"/>
+  <path d="M160 632c9-90 43-130 104-130s95 40 104 130z" fill="#214638"/>
+  <text x="493" y="455" fill="#65665e" font-family="Arial,sans-serif" font-size="17">The studio is quiet at first. Then you notice the</text>
+  <text x="493" y="483" fill="#65665e" font-family="Arial,sans-serif" font-size="17">soft sound of paper, the light moving across the</text>
+  <text x="493" y="511" fill="#65665e" font-family="Arial,sans-serif" font-size="17">table, a new shape waiting to be found.</text>
+  <text x="493" y="573" fill="#214638" font-family="Georgia,serif" font-size="25">“Making begins</text>
+  <text x="493" y="606" fill="#214638" font-family="Georgia,serif" font-size="25">with noticing.”</text>
+  <path d="M78 699h1044" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="730" fill="#65665e" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CULTURE, CLOSELY OBSERVED.</text>
+  <text x="1067" y="730" fill="#65665e" font-family="Arial,sans-serif" font-size="12">VOL. 01</text>
+</svg>

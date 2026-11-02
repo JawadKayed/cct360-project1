@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">FORM visual identity concept</title>
+  <desc id="desc">A forest-green serif F monogram surrounded by fine looping lines on a warm cream field.</desc>
+  <rect width="900" height="600" fill="#ebe6d9"/>
+  <text x="54" y="58" fill="#214638" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">FORM / IDENTITY STUDY</text>
+  <ellipse cx="451" cy="315" rx="283" ry="118" fill="none" stroke="#9eaa96" stroke-width="2" transform="rotate(-25 451 315)"/>
+  <ellipse cx="451" cy="315" rx="255" ry="138" fill="none" stroke="#c6c2b5" stroke-width="2" transform="rotate(29 451 315)"/>
+  <text x="331" y="425" fill="#214638" font-family="Georgia,serif" font-size="334">f.</text>
+  <circle cx="664" cy="392" r="13" fill="#214638"/>
+  <text x="54" y="555" fill="#65665e" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">CHARACTER, MADE VISIBLE.</text>
+</svg>

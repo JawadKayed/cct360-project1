@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Field Notes magazine homepage concept</title>
+  <desc id="desc">A magazine homepage mockup featuring the headline A slower look, an illustrated landscape, and the story Where the landscape becomes a language.</desc>
+  <rect width="1200" height="800" fill="#ebe6d9"/>
+  <rect x="34" y="28" width="1132" height="744" fill="#fffdf8"/>
+  <text x="77" y="82" fill="#214638" font-family="Georgia,serif" font-size="33">Field Notes</text>
+  <text x="811" y="76" fill="#65665e" font-family="Arial,sans-serif" font-size="15">Stories　 People　 Places　 About</text>
+  <path d="M78 105h1044" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="152" fill="#214638" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">FIELD NOTES / A FIELD JOURNAL</text>
+  <text x="78" y="208" fill="#214638" font-family="Georgia,serif" font-size="51">A slower look.</text>
+  <text x="78" y="242" fill="#65665e" font-family="Arial,sans-serif" font-size="18">On walking, noticing, and the stories held in ordinary places.</text>
+  <rect x="78" y="270" width="1044" height="245" fill="#dfe6d7"/>
+  <circle cx="884" cy="342" r="52" fill="#fffdf8"/>
+  <path d="M78 437c161-125 292-153 433-89 126 58 206 57 330-14 102-58 185-66 281-29v210H78z" fill="#a8b99a"/>
+  <path d="M78 469c179-78 298-60 427-9 141 56 246 58 384 5 103-40 170-43 233-19v69H78z" fill="#214638"/>
+  <text x="78" y="555" fill="#214638" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">PLACE / A FIELD JOURNAL</text>
+  <text x="78" y="601" fill="#252720" font-family="Georgia,serif" font-size="37">Where the landscape becomes a language</text>
+  <text x="78" y="637" fill="#65665e" font-family="Arial,sans-serif" font-size="17">On walking, noticing, and the stories held in ordinary places.</text>
+  <text x="78" y="689" fill="#214638" font-family="Arial,sans-serif" font-size="14">Read the story ↗</text>
+  <path d="M78 718h1044" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="746" fill="#65665e" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CULTURE, CLOSELY OBSERVED.</text>
+  <text x="1067" y="746" fill="#65665e" font-family="Arial,sans-serif" font-size="12">VOL. 01</text>
+</svg>

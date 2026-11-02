@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Digital experience service concept</title>
+  <desc id="desc">A compact website concept for Common Ground, with editorial type, fine rules, and a terracotta color block.</desc>
+  <rect width="900" height="600" fill="#dfe6d7"/>
+  <rect x="46" y="34" width="808" height="532" fill="#fffdf8"/>
+  <text x="78" y="76" fill="#214638" font-family="Georgia,serif" font-size="28">Common Ground</text>
+  <text x="775" y="74" fill="#65665e" font-family="Arial,sans-serif" font-size="19">≡</text>
+  <path d="M78 99h744" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="151" fill="#214638" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">A PLACE TO BEGIN</text>
+  <text x="78" y="227" fill="#252720" font-family="Georgia,serif" font-size="61">A little closer</text>
+  <text x="78" y="291" fill="#252720" font-family="Georgia,serif" font-size="61">to what matters.</text>
+  <path d="M78 324h376M78 346h420" stroke="#a9aaa0" stroke-width="4"/>
+  <rect x="651" y="176" width="140" height="174" fill="#b96c4b"/>
+  <path d="M78 405h744" stroke="#d8d4c9" stroke-width="2"/>
+  <text x="78" y="455" fill="#65665e" font-family="Arial,sans-serif" font-size="17">Thoughtful digital experiences, shaped around people.</text>
+  <text x="78" y="519" fill="#214638" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">DISCOVER MORE  ↗</text>
+</svg>
